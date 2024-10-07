@@ -1,10 +1,15 @@
 ### Olá!! Eu sou o Rafa ✌🏾👻
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-willian-de-oliveira-7a7954103/)
+[![disc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Hipercalóri#7402)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafawill27/)
 
 
-![RafaWill GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillianO&show_icons=true&theme=tokyonight)
+
+![RafaWill GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillianO&show_icons=true&theme=cobalt)  </div>   <img align="Left" height="195" src="https://i0.wp.com/cubovelocidade.com.br/wp-content/uploads/2020/06/source.gif"  />
+
+![STATS](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelWillianO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false) 
+
 
 
 ### Tecnologias que eu uso no meu dia 
@@ -20,5 +25,4 @@
 ### Um pouco sobre mim
 
 Atualmente trabalhando como Analista de Dados, apaixonado por tecnologia e sempre em busca de soluções inovadoras. Nas horas vagas, gosto de explorar o mundo dos jogos e curtir atividades ao ar livre.
-
 

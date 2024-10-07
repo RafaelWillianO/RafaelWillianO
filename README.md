@@ -6,9 +6,9 @@
 
 
 
-![RafaWill GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillianO&show_icons=true&theme=cobalt)  </div>   <img align="Left" height="195" src="https://i0.wp.com/cubovelocidade.com.br/wp-content/uploads/2020/06/source.gif"  />
+![RafaWill GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillianO&show_icons=true&theme=cobalt) 
 
-![STATS](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelWillianO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false) 
+![STATS](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelWillianO&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=5&theme=cobalt&hide_border=false)  </div>   <img align="Left" height="115" src="https://i0.wp.com/cubovelocidade.com.br/wp-content/uploads/2020/06/source.gif"  />
 
 
 
